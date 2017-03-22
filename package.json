@@ -1,12 +1,12 @@
 {
-  "name": "hackathon-starter",
-  "version": "4.3.0",
+  "name": "My Boilerplate",
+  "version": "0.0.1",
   "description": "A boilerplate for Node.js web applications",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahat/hackathon-starter.git"
+    "url": "https://github.com/lewisfrost/myboilerplate.git"
   },
-  "author": "Sahat Yalkabov",
+  "author": "Lewis Frost",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
